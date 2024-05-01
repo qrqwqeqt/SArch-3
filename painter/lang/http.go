@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/NikitaSutulov/software-architecture-lab3/painter"
+	"github.com/qrqwqeqt/SArch-3/painter"
 )
 
 func HttpHandler(loop *painter.Loop, p *Parser) http.Handler {

@@ -1,8 +1,9 @@
 package lang
 
 import (
-	"github.com/NikitaSutulov/software-architecture-lab3/painter"
 	"image"
+
+	"github.com/qrqwqeqt/SArch-3/painter"
 )
 
 type Uistate struct {
