@@ -1,6 +1,6 @@
 **Третя лабораторна робота з дисципліни "Компоненти програмної інженерії"**
 
-Підготували студенти групи ІМ-12 Сутулов Нікіта, Назаренко Олександр та Колосов Сергій.
+Підготували студенти групи ІМ-23 Гарачун Олександр, Катерина Гуменюк, Арсеній Брюхов.
 
 [![Go](https://github.com/NikitaSutulov/software-architecture-lab3/actions/workflows/go.yml/badge.svg)](https://github.com/NikitaSutulov/software-architecture-lab3/actions/workflows/go.yml)
 
