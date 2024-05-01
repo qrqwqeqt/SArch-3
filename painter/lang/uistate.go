@@ -3,7 +3,7 @@ package lang
 import (
 	"image"
 
-	"github.com/qrqwqeqt/SArch-3/painter"
+	"github.com/qrqwqeqt/architecture-lab-3/painter"
 )
 
 type Uistate struct {

@@ -1,4 +1,4 @@
-module github.com/qrqwqeqt/SArch-3
+module github.com/qrqwqeqt/architecture-lab-3
 
 go 1.20
 

@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/qrqwqeqt/SArch-3/painter"
+	"github.com/qrqwqeqt/architecture-lab-3/painter"
 )
 
 // Parser уміє прочитати дані з вхідного io.Reader та повернути список операцій представлені вхідним скриптом.
